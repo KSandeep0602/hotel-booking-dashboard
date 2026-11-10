@@ -1,4 +1,8 @@
+<badge color="success">Copy exactly</badge>
+
+<CodeBlock language="text" editable>
+streamlit
 pandas
 numpy
 plotly
-streamlit`
+</CodeBlock>
